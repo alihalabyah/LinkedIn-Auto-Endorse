@@ -1,7 +1,7 @@
 LinkedIn-Auto-Endorse
 =====================
 
-Copy and paste the script in the console while the endorsement box showing 
+Copy and paste the following script in the console while the endorsement box showing.
 
 ```javascript
 var timeout = 1000;
